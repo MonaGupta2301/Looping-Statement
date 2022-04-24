@@ -20,7 +20,6 @@ class Mona
 }
 /*
 *********OUTPUT**********
-
 D:\GItHub>javac n_Even_Numbers.java
 
 D:\GItHub>java Mona
